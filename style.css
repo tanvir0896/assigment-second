@@ -1,0 +1,140 @@
+/* header banner style */
+.header-part {
+    margin: 50px 140px;
+}
+
+.banner {
+    background: #161616;
+    border-radius: 30px;
+    display: flex;
+}
+
+.some-text {
+    padding: 111px 0px 10px 50px;
+    color: #FFFFFF;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+.player-img {
+    padding: 300px 79px 0px 24px;
+}
+
+.live {
+    background-color: #DD0000;
+    font-weight: 400;
+    font-size: 20px;
+    border: none;
+    border-radius: 2px;
+    color: #FFFFFF;
+    padding: 5px;
+    margin-top: 10px;
+
+}
+
+/* menu and blog */
+.all-blogs {
+    display: grid;
+    grid-template-columns: repeat(3, 3fr);
+    grid-row-gap: 24px;
+    grid-column-gap: 24px;
+    margin-left: 140px;
+    margin-right: 140px;
+
+
+
+}
+
+.blogs {
+    width: 312px;
+    height: 362px;
+}
+
+.b-img {
+    width: 312px;
+    height: 175px;
+}
+
+.icon {
+    display: flex;
+    align-items: center;
+
+
+}
+
+.space {
+    margin-left: 70px;
+}
+
+.menu {
+    max-width: 200px;
+    margin-bottom: 100px;
+    border-radius: 20px;
+    border: 10px solid black;
+    margin-left: 500px;
+
+}
+
+.menu a {
+    display: flex;
+    text-decoration: none;
+    color: black;
+    border: 5px solid white;
+    border-radius: 10px;
+    background-color: #8f7e7e;
+    margin-bottom: 30px;
+    justify-content: center;
+    padding: 5px;
+
+}
+
+.view {
+    text-align: center;
+
+}
+
+.btn-vw {
+    background-color: #DD0000;
+    padding: 10px 20px;
+    border-radius: 3px;
+    border: none;
+
+}
+
+.btn-vw a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+
+footer {
+    background-color: black;
+    width: 1600px;
+    height: 444px;
+
+}
+
+footer h1 {
+    color: #FFFFFF;
+    margin-left: 600px;
+    padding-top: 70px;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.link {
+    margin-top: 80px;
+    margin-left: 200px;
+    align-items: center;
+}
+
+.link a {
+    text-decoration: none;
+    color: #FFFFFF;
+    padding-left: 50px;
+    padding-top: 50px;
+
+
+}
